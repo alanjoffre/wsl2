@@ -1,2 +1,2 @@
 # wsl2
-Repositório com aprendizado: WSL2
+- Repositório com: artigos, aprendizados, exercícios e projetos.
